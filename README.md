@@ -1,0 +1,4 @@
+# Tweet-topic-belonging-and-user-behaviour-analysis
+I have determined the degree of belonging of tweets from a user to certain topics by developing a word dictionary without stop words, calculating the frequency of words in a tweet and on the whole tweet corpus to find the important words in a tweet, calculating the probability of certain words belonging to certain topics by term-frequency inverse document frequency (TF-IDF scores). I have then applied Linear Dirichlet Allocation (LDA) for final calculation of degree of belonging of tweets in certain topics.
+
+Also, I analyzed user tweets filtering within a certain date and hashtag to find out the number of positive, negative and neutral sentiment tweets. For reference, I have attached a PDF of the final report with code snippets specific to my contribution to the project.
